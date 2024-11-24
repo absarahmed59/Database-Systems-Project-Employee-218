@@ -10,3 +10,6 @@ E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.exe
 E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.pdb
 E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.Add_Employee.resources
 E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.DashBoard.resources
+E:\AbsarCodes\BSCS\Database Systems\Database-Systems-Project-Employee-218\Employee\Employee\bin\Debug\Employee.exe.config
+E:\AbsarCodes\BSCS\Database Systems\Database-Systems-Project-Employee-218\Employee\Employee\obj\Debug\Employee.exe
+E:\AbsarCodes\BSCS\Database Systems\Database-Systems-Project-Employee-218\Employee\Employee\obj\Debug\Employee.pdb
