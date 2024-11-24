@@ -1,0 +1,12 @@
+E:\AbsarCodes\BSCS\Employee\Employee\bin\Debug\Employee.exe.config
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.Login.resources
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.Register.resources
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+E:\AbsarCodes\BSCS\Employee\Employee\bin\Debug\Employee.exe
+E:\AbsarCodes\BSCS\Employee\Employee\bin\Debug\Employee.pdb
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.exe
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.pdb
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.Add_Employee.resources
+E:\AbsarCodes\BSCS\Employee\Employee\obj\Debug\Employee.DashBoard.resources
