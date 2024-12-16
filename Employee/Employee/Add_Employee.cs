@@ -86,5 +86,12 @@ namespace Employee
         {
 
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Salaries f = new Salaries();
+            f.Show();
+        }
     }
 }

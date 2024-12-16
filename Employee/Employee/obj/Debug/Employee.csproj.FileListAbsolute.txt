@@ -22,3 +22,4 @@ E:\AbsarCodes\BSCS\Database Systems\Database-Systems-Project-Employee-218\Employ
 E:\AbsarCodes\BSCS\Database Systems\Database-Systems-Project-Employee-218\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
 E:\AbsarCodes\BSCS\Database Systems\Database-Systems-Project-Employee-218\Employee\Employee\obj\Debug\Employee.Register.resources
 E:\AbsarCodes\BSCS\Database Systems\Database-Systems-Project-Employee-218\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+E:\AbsarCodes\BSCS\Database Systems\Database-Systems-Project-Employee-218\Employee\Employee\obj\Debug\Employee.Salaries.resources
