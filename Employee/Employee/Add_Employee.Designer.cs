@@ -153,11 +153,14 @@
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(162)))), ((int)(((byte)(145)))), ((int)(((byte)(199)))));
+            this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(53)))), ((int)(((byte)(71)))));
             this.label6.Location = new System.Drawing.Point(336, 268);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(42, 13);
             this.label6.TabIndex = 28;
             this.label6.Text = "Gender";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // textBox5
             // 
@@ -169,11 +172,14 @@
             // label7
             // 
             this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(162)))), ((int)(((byte)(145)))), ((int)(((byte)(199)))));
+            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(53)))), ((int)(((byte)(71)))));
             this.label7.Location = new System.Drawing.Point(336, 225);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(45, 13);
             this.label7.TabIndex = 26;
             this.label7.Text = "Address";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // textBox6
             // 
@@ -185,11 +191,14 @@
             // label8
             // 
             this.label8.AutoSize = true;
+            this.label8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(162)))), ((int)(((byte)(145)))), ((int)(((byte)(199)))));
+            this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(53)))), ((int)(((byte)(71)))));
             this.label8.Location = new System.Drawing.Point(336, 174);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(60, 13);
             this.label8.TabIndex = 24;
             this.label8.Text = "Experience";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // textBox7
             // 
@@ -201,11 +210,14 @@
             // label9
             // 
             this.label9.AutoSize = true;
+            this.label9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(162)))), ((int)(((byte)(145)))), ((int)(((byte)(199)))));
+            this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(53)))), ((int)(((byte)(71)))));
             this.label9.Location = new System.Drawing.Point(336, 131);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(29, 13);
             this.label9.TabIndex = 22;
             this.label9.Text = "Role";
+            this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // textBox8
             // 
@@ -264,6 +276,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(162)))), ((int)(((byte)(145)))), ((int)(((byte)(199)))));
             this.ClientSize = new System.Drawing.Size(648, 453);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -289,8 +302,10 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.button1);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(74)))), ((int)(((byte)(95)))));
             this.Name = "Add_Employee";
             this.Text = "Add_Employee";
+            this.Load += new System.EventHandler(this.Add_Employee_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
